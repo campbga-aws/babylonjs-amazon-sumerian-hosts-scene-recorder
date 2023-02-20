@@ -1,0 +1,5 @@
+@import url('assets/babylon-application-common.css');
+
+#speechText {
+  resize: both;
+}

@@ -1,0 +1,8 @@
+{
+    "pollyVoice": "Brian",
+    "pollyEngine": "neural",
+    "sumerianHost": "Luke",
+    "sumerianHostScript": "Hello, my name is Luke. How may I be of assistence today?",
+    "recordingDuration": 15,
+    "recordingTitle": "sumerian-host-recording.webm"
+}
